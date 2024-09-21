@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devLucas-br
+- 👀 I’m interested in always learning more about programming and I seek to evolve with other people with the same interests
+- 🌱 I’m currently learning Web Development (HTML5 / CSS3 / JS) and Python
+- 📫 You can contact me by sending an email to luucas.github@gmail.com
+- ⚡ Fun fact: 🍃
